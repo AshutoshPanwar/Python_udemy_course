@@ -10,3 +10,16 @@ print(l)
 
 del(l[1])
 print(l)
+
+#.split()
+s = 'hello python'
+w = s.split()
+print(w)
+
+s = '10 29 32 94'
+x = s.split()
+print(x)
+
+s = '10,29,32,94'
+x = s.split(,)
+print(x)
