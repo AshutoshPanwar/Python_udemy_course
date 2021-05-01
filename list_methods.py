@@ -23,3 +23,15 @@ print(x)
 s = '10,29,32,94'
 x = s.split(,)
 print(x)
+
+#.short()
+z = [10, 54, 2, 72, 15]
+print(z)
+z.short()
+print(z)
+
+#.reverse 
+z = [10, 54, 2, 72, 15]
+print(z)
+z.reverse()
+print(z)
